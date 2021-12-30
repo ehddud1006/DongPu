@@ -108,15 +108,20 @@ p {
   margin-top: 5%;
 }
 .happy {
-  width: 30%;
+  width: 20%;
 }
 
 .happy2 {
   width: 20%;
 }
 
+.carousel-item {
+  padding: 7% 15%;
+}
+
 h2 {
   font-family: "Montserrat", sans-serif;
+  text-align: center;
   font-weight: 700;
   font-size: 5rem;
   line-height: 1.5;
