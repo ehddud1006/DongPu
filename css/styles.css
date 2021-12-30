@@ -63,6 +63,7 @@ p {
 }
 
 /* features section */
+
 #features {
   padding: 7% 15%;
   /* features를 중앙으로 배치하기 위함 */
@@ -83,7 +84,57 @@ p {
 
 .icon:hover {
   color: #ff4c68;
+  /* icon위에 마우스를 갖다대면 
+색깔이 변하도록 함. */
 }
 
-/* icon위에 마우스를 갖다대면 
-색깔이 변하도록 함. */
+/* Developers Section/ */
+
+#Developers {
+  padding: 7% 15% 2%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+.developer {
+  margin-top: 7%;
+}
+.develope {
+  text-align: center;
+}
+
+.develope2 {
+  text-align: center;
+  margin-top: 5%;
+}
+.happy {
+  width: 30%;
+}
+
+.happy2 {
+  width: 20%;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 5rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  /* 사진 둥글게 */
+  margin: 20px;
+}
+
+#press {
+  padding-bottom: 3%;
+  text-align: center;
+  background-color: #ff4c68;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
